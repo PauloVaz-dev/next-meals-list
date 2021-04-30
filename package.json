@@ -12,6 +12,10 @@
     "react-scripts": "2.1.8",
     "typescript": "^4.2.4"
   },
+  "engines": {
+    "node": "12.16.1",
+    "npm": "7.6.0"
+  },
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
